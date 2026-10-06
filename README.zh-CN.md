@@ -35,8 +35,8 @@ ScholarZone 是一款面向科研人员的 Chrome 浏览器插件。它在 Googl
 
 ## 安装
 
-**方式一 —— Chrome 应用商店**(新上架审核中):入口见官网
-<https://chrome.tvt.wiki>。
+**方式一 —— Chrome 应用商店**:
+<https://chromewebstore.google.com/detail/ficebgfabfegcikljhlmhabpbficnenp>。
 
 **方式二 —— GitHub Releases**:
 1. 在 [最新 Release](https://github.com/MicTx/scholarzone/releases) 下载
@@ -58,7 +58,7 @@ ScholarZone 是一款面向科研人员的 Chrome 浏览器插件。它在 Googl
 ## 隐私
 
 ScholarZone 默认离线工作,期刊查询不离开浏览器。隐私政策:
-<https://chrome.tvt.wiki/privacy-policy.html>
+<https://scholarzone.tvt.wiki/privacy-policy.html>
 
 ## 许可
 
@@ -66,5 +66,5 @@ ScholarZone 默认离线工作,期刊查询不离开浏览器。隐私政策:
 
 ## 链接
 
-- 官网:<https://chrome.tvt.wiki>
+- 官网:<https://scholarzone.tvt.wiki>
 - 支持邮箱:tvtservices@163.com

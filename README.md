@@ -46,8 +46,8 @@ Two journal databases are bundled and work fully offline, no account needed:
 
 ## Install
 
-**Option A — Chrome Web Store** (recommended once the new listing is live):
-visit <https://chrome.tvt.wiki> for the entry point.
+**Option A — Chrome Web Store**:
+<https://chromewebstore.google.com/detail/ficebgfabfegcikljhlmhabpbficnenp>
 
 **Option B — GitHub Releases**:
 1. Download `scholarzone-extension-store.zip` from the
@@ -70,7 +70,7 @@ Journal data is for personal academic use only — see [NOTICE.md](NOTICE.md).
 ## Privacy
 
 ScholarZone works offline by default. Journal lookups never leave your
-browser. Privacy policy: <https://chrome.tvt.wiki/privacy-policy.html>
+browser. Privacy policy: <https://scholarzone.tvt.wiki/privacy-policy.html>
 
 ## License
 
@@ -80,5 +80,5 @@ separate written authorization from the project owner.
 
 ## Links
 
-- Homepage: <https://chrome.tvt.wiki>
+- Homepage: <https://scholarzone.tvt.wiki>
 - Support: tvtservices@163.com

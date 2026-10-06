@@ -38,5 +38,5 @@ promptly.
 
 ## Contact
 
-- Homepage: <https://chrome.tvt.wiki>
+- Homepage: <https://scholarzone.tvt.wiki>
 - Support: tvtservices@163.com
